@@ -9,7 +9,7 @@
 
 **Spring 2019 – Professor Sarah Dahnke**
 
-*Tuesday + Thursday 10:30 - 12:20,  2 MetroTech Center Room 813*
+*Tuesday + Thursday 10:30am - 12:20pm,  2 MetroTech Center Room 813*
 
 *Link to class Slack workspace: https://idmnyu.slack.com/ (Students will receive an invitation to this course's private channel.)*
 
