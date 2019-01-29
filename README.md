@@ -77,7 +77,6 @@ By the end of the course, students will be able to:
   * Firebug for Firefox, http://getfirebug.com or
   * Chrome Developer Tools, https://developers.google.com/chrome-developer-tools 
 * HTML Text Editor (Atom, Sublime Text, Brackets.io, etc)
-* FTP Application (Cyberduck, Transmit, Fetch, FileZilla, etc)
 * Web Server Space
 	* We will be using Github Pages to host your websites, but you are welcome to purchase your own server space as well.
 
@@ -114,6 +113,8 @@ The midterm assignment will be a project that demonstrates a working knowledge o
 Attendance is *mandatory*. Please inform me via Slack direct message if you are going to miss a class. Showing up late for class or an excessive number of absences will adversely affect your grade. This class will be participatory, you are expected to participate in discussions and give feedback to other students both in class and participate with their projects. This (along with attendance) is 20% of your overall grade. Each student will be asked to do a 5-min presentation on a Learning Log throughout the semester, which is part of your participation grade.
 
 **PLEASE NOTE: 3 unexcused absences will result in your grade dropping 5%**
+
+If you need a medical absence excused, you must submit documentation to Deanna Rayment - deanna.rayment@nyu.edu - for the absence to be reviewed and considered excused.
 
 **Final Project 20%**
 
