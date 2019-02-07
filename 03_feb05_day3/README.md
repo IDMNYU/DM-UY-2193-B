@@ -3,7 +3,6 @@
 * Remaining Design Inspiration Presentations
 
 * Intro to UNIX/command line
-  * [Clean Up the Fridge!](https://github.com/sarahrose26/command-line-refrigerator-lab)
   
   
   ### Homework
