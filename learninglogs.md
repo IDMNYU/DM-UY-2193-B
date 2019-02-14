@@ -36,7 +36,7 @@ Learning Logs Presentaton schedule:
 
 #### March 12: Kathy
 
-### March 14: Loki
+#### March 14: Loki
 
 #### March 19 & 21: NO CLASSES: Spring Break
 
