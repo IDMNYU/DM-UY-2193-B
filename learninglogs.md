@@ -41,3 +41,5 @@ Learning Logs Presentaton schedule:
 #### April 16 & 18: Ki Hyun, Florentina
 
 #### April 23 & 25: Luke, Vida
+
+#### April 30: Izaac, Amanda
