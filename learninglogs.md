@@ -42,4 +42,4 @@ Learning Logs Presentaton schedule:
 
 #### April 23 & 25: Luke, Vida
 
-#### April 30: Izaac
+#### April 30: Izaac, Amanda
