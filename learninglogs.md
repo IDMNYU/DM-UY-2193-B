@@ -22,24 +22,40 @@ Post to Slack in the logs channel for this course. Begin message with "#LL: desc
 
 Learning Logs Presentaton schedule:
 
-#### Feb 19 & 21: Olivia, Jenny
+#### Feb 19: Olivia
 
-#### Feb 26 & 28: KC, Max 
+#### Feb 21: Jenny
 
-#### March 5 & 7: Crystal, Michael
+#### Feb 26: KC
 
-#### March 12 & 14: Kathy, Loki
+#### Feb 28: Max 
+
+#### March 5: Crystal
+
+#### March 7: Michael
+
+#### March 12: Kathy
+
+### March 14: Loki
 
 #### March 19 & 21: NO CLASSES: Spring Break
 
-#### March 26 & 28: Junjie, Rachel
+#### March 26: Junjie
 
-#### April 2 & 4: Tina, Sahana
+#### March 28: Rachel
 
-#### April 9 & 11: SangDoo, Claudia
+#### April 2 & 4: no presentations
 
-#### April 16 & 18: Ki Hyun, Florentina
+#### April 9: SangDoo & Tina
 
-#### April 23 & 25: Luke, Vida
+#### April 11: Claudia
 
-#### April 30: Izaac, Amanda
+#### April 16: Ki Hyun & Sahana
+
+#### Apri 18: Florentina
+
+#### April 23: Luke
+
+#### April 25: Vida
+
+#### April 30: Izaac & Amanda
