@@ -1,4 +1,4 @@
-## Day 6
+## Day 7
 
 * Learning Log Presentations
 
