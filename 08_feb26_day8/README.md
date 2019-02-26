@@ -18,5 +18,9 @@
     
     * building a one-page website
     
+
 ### Homework
 
+* Make sure you submit your in-class assignment!
+
+* Complete a Learning Log on any topic that came up during your in-class assignment where you realized you need clarity.
