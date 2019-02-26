@@ -1,6 +1,6 @@
 ## Day 8
 
-* Learning Log Presentation: KC
+~~* Learning Log Presentation: KC
 
 * Review of push to Github
 
