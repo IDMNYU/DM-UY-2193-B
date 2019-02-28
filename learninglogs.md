@@ -26,9 +26,9 @@ Learning Logs Presentaton schedule:
 
 #### Feb 21: Jenny
 
-#### Feb 26: KC
+~~#### Feb 26: KC~~
 
-#### Feb 28: Max 
+#### Feb 28: KC + Max 
 
 #### March 5: Crystal
 
