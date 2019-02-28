@@ -1,0 +1,43 @@
+nav {
+    text-align: center;
+    background-color: darkgray;
+    position: fixed;
+    width: 100%;
+    
+}
+
+nav li {
+    display: inline;
+    padding: 50px;
+}
+
+nav a {
+    color: red;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+#home {
+    background-color: aqua;
+    height: 300px;
+    padding: 50px;
+}
+
+#about {
+    background-color: darkmagenta;
+    height: 300px;
+    padding: 50px;
+}
+
+#resume {
+    background-color: forestgreen;
+    height: 300px;
+    padding: 50px;
+}
+
+#contact {
+    background-color: dodgerblue;
+    height: 300px;
+    padding: 50px;
+}
+
