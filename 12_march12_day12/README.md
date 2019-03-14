@@ -2,7 +2,7 @@
 
 * Learning Log: Kathy
 
-* First 10 Midterm Proposal Presentations: 5 min each
+* First 9 Midterm Proposal Presentations: 5 min each
 
     * Olivia
     * Crystal

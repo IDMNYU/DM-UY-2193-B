@@ -36,11 +36,11 @@ Learning Logs Presentaton schedule:
 
 #### March 12: Kathy
 
-#### March 14: Loki
+#### March 14: no presentations
 
 #### March 19 & 21: NO CLASSES: Spring Break
 
-#### March 26: Junjie
+#### March 26: Junjie & Loki
 
 #### March 28: Rachel
 
