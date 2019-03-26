@@ -42,9 +42,9 @@ Learning Logs Presentaton schedule:
 
 #### March 26: Junjie & Loki
 
-#### March 28: Rachel
+#### April 2: no presentations
 
-#### April 2 & 4: no presentations
+#### April 4: 
 
 #### April 9: SangDoo & Tina
 
