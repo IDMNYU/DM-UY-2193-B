@@ -44,7 +44,7 @@ Learning Logs Presentaton schedule:
 
 #### April 2: no presentations
 
-#### April 4: 
+#### April 4: Izaac
 
 #### April 9: SangDoo & Tina
 
@@ -58,4 +58,4 @@ Learning Logs Presentaton schedule:
 
 #### April 25: Vida
 
-#### April 30: Izaac & Amanda
+#### April 30: Amanda
