@@ -26,6 +26,6 @@ Peer Review Framework:
 
 ### Homework
 
-* Complete the [Midterm Self-Assessment] (https://github.com/IDMNYU/DM-UY-2193-B/blob/master/midtermselfassessment.md), due Thursday
+* Complete the [Midterm Self-Assessment](https://github.com/IDMNYU/DM-UY-2193-B/blob/master/midtermselfassessment.md), due Thursday
 
 * Remember to catch up on any missing work before midterm grades are submitted on Friday.
