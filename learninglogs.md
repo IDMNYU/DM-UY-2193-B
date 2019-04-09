@@ -54,8 +54,8 @@ Learning Logs Presentaton schedule:
 
 #### Apri 18: Florentina
 
-#### April 23: Luke
+#### April 23: no presentations
 
-#### April 25: Vida
+#### April 25: Vida & Luke
 
 #### April 30: Amanda
