@@ -26,7 +26,7 @@
 
 #### April 16 & 18: JS math, events, loops, DOM manipulation
 
-#### April 23 & 25: Continued DOM manipulation
+#### April 23 & 25: Guest speakers: Calli Higgins, front end dev at the New York Times, and Alex Vessels, UX designer at Sema4 + Continued DOM manipulation
 
 #### April 30: Jquery, Website hosting
 
