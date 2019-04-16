@@ -78,13 +78,73 @@ var thirdArray = [firstArray, secondArray] //multidemnsional array
 
 var num = 9
 
-if (num === 10){
-    alert('your number is correct')
-}else if(num > 10){
-    alert('your number is too big')
-}else{
-    alert('choose a new number')
+//if (num === 10){
+//    alert('your number is correct')
+//}else if(num > 10){
+//    alert('your number is too big')
+//}else{
+//    alert('choose a new number')
+//}
+
+//creating functions
+//what is a function?
+//perform operations, they can called to perform those operations over and over
+//could contain conditional statements and/or variables
+//are operations or methods
+
+//set up the function
+function sayHello(){
+    console.log('hellllooooooooo')
 }
+
+//call the function
+sayHello()
+
+//setting up a function arguments
+function addNumber(numberOne, numberTwo){
+    return numberOne + numberTwo //return exit the function
+}
+
+console.log(addNumber(40, 60));
+
+//create a function that acts like a virtual door
+//if we call door #1, we will return tacos
+//if we call door #2, we will return pizza
+//if we call door #3, we will get bagels
+
+//function will contain a console.log or alert
+//will contain an if/else if/else statement
+
+//test each of your doors by calling the function at least 3 times
+
+function virtualDoor(doorNum){
+    if (doorNum === 1){
+        alert('tacos')
+    }else if (doorNum === 2){
+        alert('pizza')
+    }else if (doorNum === 3){
+        return 'bagels'
+    }else{
+        alert('pick a different door!')
+    }
+}
+//call function with doorNum
+//virtualDoor(1);
+//virtualDoor(2);
+//virtualDoor(3);
+//virtualDoor(5);
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
