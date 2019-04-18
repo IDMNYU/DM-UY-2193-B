@@ -1,6 +1,6 @@
 ## Day 20
 
-* REMINDER: Tuesday, April 23 from 8:45 to 10:20 we will meet in room 820 for guest talks from [Calli Higgins](http://callihiggins.com/), front end developer at the New York Times and [Alex Vessels](alexvessels.com), UX Designer for the Sema4 Group at Mount Siani. Please come ready to be engaged and ask questions!
+* REMINDER: Tuesday, April 23 from 8:45 to 10:20 we will meet in room 820 for guest talks from [Calli Higgins](http://callihiggins.com/), front end developer at the New York Times and [Alex Vessels](http://alexvessels.com), UX Designer for the Sema4 Group at Mount Siani. Please come ready to be engaged and ask questions!
 
 * Learning Log: Florentina
 
