@@ -31,12 +31,32 @@ Your project will be considered complete if you have completed the following:
 
 * NOTE: Projects must be pushed to Github/Github Pages. They must be submitted via NYU Classes by May 7, regardless of the day you are scheduled to present. There will be no extensions on final projects.
 
-## Final Project Presentation Schedule TBD
+Final Presentations: Think of this like a pitch for your idea. In your presentation, you should a) tell us what you made and WHY it was necessary you make it, b) demo your website, c) highlight key features in your code. You should show any supporting materials necessary to tell a story about why this site needed to be built. 
+
+## Final Project Presentation Schedule
 
 #### May 7:
 
+1. Olivia
+2. Jenny
+3. KC
+4. Max
+5. Crystal
+6. Michael
+7. Kathy
+8. Junjie
+9. Loki
+10. Amanda
 
 
 #### May 9:
 
-
+1. Izaac
+2. SangDoo
+3. Tina
+4. Claudia
+5. Ki Hyun
+6. Sahana
+7. Florentina
+8. Vida
+9. Luke
