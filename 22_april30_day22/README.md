@@ -3,7 +3,7 @@
 * Last learning logs: Amanda
 
 * [Jquery](https://api.jquery.com/)
-    *[Jquery selectors](https://www.w3schools.com/jquery/jquery_selectors.asp)
+    * [Jquery selectors](https://www.w3schools.com/jquery/jquery_selectors.asp)
     
 * Final Project Check-in
 
