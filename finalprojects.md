@@ -27,7 +27,7 @@ Your project will be considered complete if you have completed the following:
 
 * All code is properly formatted, linked properly, and works toward your intention.
 
-* Website has been presented in a formal presentation that shows design process, website and code. (6 minutes will be allowed for presentation with 4 minutes for clarifying questions and feedback.)
+* Website has been presented in a formal presentation that shows design process, website and code. (6 minutes will be allowed for presentation with 3 minutes for clarifying questions and feedback.)
 
 * NOTE: Projects must be pushed to Github/Github Pages. They must be submitted via NYU Classes by May 7, regardless of the day you are scheduled to present. There will be no extensions on final projects.
 
