@@ -51,12 +51,12 @@ Final Presentations: Think of this like a pitch for your idea. In your presentat
 
 #### May 9:
 
-1. Izaac
-2. SangDoo
-3. Tina
-4. Claudia
-5. Ki Hyun
-6. Sahana
-7. Florentina
-8. Vida
+1. Vida
+2. Izaac
+3. SangDoo
+4. Tina
+5. Claudia
+6. Ki Hyun
+7. Sahana
+8. Florentina
 9. Luke
